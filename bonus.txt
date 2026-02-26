@@ -77,7 +77,6 @@ Lightweight: Containers share the host OS kernel, making them faster and less re
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
 9. A Docker Registry is a storage and distribution system for Docker images. It allows users to share, manage, and access Docker images.
 
 Public Registry: Docker Hub is the most popular public registry, where anyone can pull or push images. Public registries are free but open to everyone.
